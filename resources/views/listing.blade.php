@@ -43,8 +43,8 @@
             <div class="row filter">
                 <div class="row" style="width: 365px;">
                     <div class="col-sm-6"><i class="fa fa-filter" aria-hidden="true"></i>Filters</div>
-                    <div id="clear" class="col-sm-6 text-right"><i class="fa fa-eraser" aria-hidden="true"></i>Clear All
-                    </div>
+                    {{--                    <div id="clear" class="col-sm-6 text-right"><i class="fa fa-eraser" aria-hidden="true"></i>Clear All--}}
+                    {{--                    </div>--}}
                 </div>
                 <div class="row">
                     <div class="col-sm-4"><input type="radio" name="stops" value="1" id="stops" class="stops">
